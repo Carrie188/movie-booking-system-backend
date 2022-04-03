@@ -89,8 +89,8 @@ public class DemoApplication {
 
 			// add show to screen
 			screens[0].addShows(shows[0]);
-			screens[0].addShows(shows[1]);
-			screens[0].addShows(shows[2]);
+			screens[1].addShows(shows[1]);
+			screens[2].addShows(shows[2]);
 			
 			// add seats to screen
 			screens[0].addSeat(seats[0]);
